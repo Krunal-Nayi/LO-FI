@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/lo-fi-api/.vs/lo-fi-api
+/lo-fi-api/lo-fi-api/bin/Debug/netcoreapp3.1
+/lo-fi-api/lo-fi-api/obj
